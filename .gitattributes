@@ -1,3 +1,4 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 /.dvc/config filter=lfs diff=lfs merge=lfs -text
 *.dvcignore filter=lfs diff=lfs merge=lfs -text
@@ -18,7 +19,6 @@
 *.sh filter=lfs diff=lfs merge=lfs -text
 /mlflow/mlruns/0/60cdb52f0a7c4db78e66084a2502cbba/artifacts/model/MLmodel filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
-*.pkl filter=lfs diff=lfs merge=lfs -text
 /mlflow/mlruns/0/60cdb52f0a7c4db78e66084a2502cbba/metrics/mse filter=lfs diff=lfs merge=lfs -text
 /mlflow/mlruns/0/60cdb52f0a7c4db78e66084a2502cbba/params/n_estimators filter=lfs diff=lfs merge=lfs -text
 *.history filter=lfs diff=lfs merge=lfs -text
