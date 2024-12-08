@@ -143,4 +143,4 @@ How to implement CI/CD pipelines with GitHub Actions.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+https://medium.com/@aneeb.rehmanj7/blog-post-transforming-mlops-with-mlflow-airflow-and-kubernetes-a-hands-on-approach-0d75322a7902
