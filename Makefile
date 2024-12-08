@@ -1,5 +1,5 @@
 # Variables
-IMAGE_NAME = muhammadshoukat/house-prediction
+IMAGE_NAME = muhammadshoukat/mlops-app
 TAG = latest
 
 # Commands
